@@ -1,0 +1,8 @@
+{
+  "email": "asp@mob.com",
+  "password": "Admin@123",
+  "username": "asp",
+  "usernameErrorMsg": "username is already taken.",
+  "emailerrormsg": "email is already taken.",
+  "invalidcredentails": "email or password is invalid"
+}

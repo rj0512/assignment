@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="30.025">
+  <properties />
+  
+  
+            <testcase name="verifyEditArticle" time="8.720" classname="tests.TestArticleScenario" />
+                <testcase name="verifyAddComment" time="5.980" classname="tests.TestArticleScenario" />
+                <testcase name="verifyDeleteArticle" time="10.572" classname="tests.TestArticleScenario" />
+                <testcase name="verifyAddArticle" time="4.753" classname="tests.TestArticleScenario" />
+      
+</testsuite>

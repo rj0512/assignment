@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.032">
+  <properties />
+  
+  
+            <testcase name="verifySignIn" time="1.461" classname="tests.TestSignInScenario" />
+                <testcase name="verifySignInwithInvalidCredentails" time="1.571" classname="tests.TestSignInScenario" />
+      
+</testsuite>
